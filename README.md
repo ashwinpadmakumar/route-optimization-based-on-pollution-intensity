@@ -1,1 +1,2 @@
 # route-optimization-based-on-pollution-intensity
+The project uses an IoT device (Aurdino with pollution detected sensor) to detect the pollution level at each locality and later alert/intimate the user where the user desires to go. The data collected are pushed to cloud storage (Firebase). The alert intimation can be in the form of an electrical device (LED) or by using a mobile application. Further by the accumulation of several data collected from different places, the polluted area could be plotted using Maps.
